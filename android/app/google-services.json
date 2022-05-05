@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "32884971998",
+    "project_id": "arab-health",
+    "storage_bucket": "arab-health.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32884971998:android:c1b447a15fd5faad2a254f",
+        "android_client_info": {
+          "package_name": "com.tcl.arab_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32884971998-ahjqf4kqobma3aso7u0k2clpojroqb0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tcl.arab_project",
+            "certificate_hash": "8b2b6f3dc01b3559917394c08b563999e19d7119"
+          }
+        },
+        {
+          "client_id": "32884971998-ta6nva8l6gdu7jce7kc79v71nf48l0s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ONquIYyqB-Rg_RvWkkwjvDRj_pRmZrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32884971998-ta6nva8l6gdu7jce7kc79v71nf48l0s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
